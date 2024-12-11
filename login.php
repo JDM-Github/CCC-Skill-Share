@@ -61,7 +61,7 @@ require_once "./navigator.php";
 ?>
 
 <div class="login-container">
-    <h2>Login to your FUCKING Account</h2>
+    <h2>Login to your Account</h2>
     <form action="database/login.php" method="POST">
         <input name="email" placeholder="Email" required>
         <input type="password" name="password" placeholder="Password" required>
